@@ -1,5 +1,7 @@
 package myoASL;
-package com.thalmic.myo;
+
+
+/*package com.thalmic.myo;*/
 
 import com.thalmic.myo.enums.PoseType;
 

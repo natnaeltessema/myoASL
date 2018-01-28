@@ -1,5 +1,11 @@
 package myoASL;
 
-public class LockingPolicy {
 
-}
+	public enum LockingPolicy {
+	    LOCKING_POLICY_NONE,
+	    LOCKING_POLICY_STANDARD
+	}
+
+
+
+
